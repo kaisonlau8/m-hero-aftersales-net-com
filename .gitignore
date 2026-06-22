@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Node
+node_modules/
+node_modules
+package-lock.json
+
+# 根目录源文件（docs/ 中已有副本）
+售后网络.xlsx
+
+# 本地脚本与中间产物
+scripts/
+outputs/
+《省市区编号对照表》.xlsx
+
+# 本地启动脚本
+启动售后网点网页.command
+
+# Claude/Cursor 缓存
+.claude/
+.cursor/
