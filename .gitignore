@@ -8,6 +8,9 @@ package-lock.json
 
 # 根目录源文件（docs/ 中已有副本）
 售后网络.xlsx
+二网.xlsx
+package.json
+package-lock.json
 
 # 本地脚本与中间产物
 scripts/
